@@ -1,6 +1,6 @@
 # NextJS 13 TODO's App
 
-## Please read the [`TODO's Build instructions](https://github.com/granam180/nextjs-projects/tree/main/Builds/todo-app-api) to run the server
+## Please read the [`TODO's Build instructions`](https://github.com/granam180/nextjs-projects/tree/main/Builds/todo-app-api) to run the server
 
 `Client/Server rendering` `color-scheme: dark`
 
