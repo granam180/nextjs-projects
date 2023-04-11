@@ -1,6 +1,8 @@
 # NextJS 13 TODO's App
 
-`Client/Server rendering` `coler-scheme: dark`
+## Please read the [`TODO's Build instructions](https://github.com/granam180/nextjs-projects/tree/main/Builds/todo-app-api) to run the server
+
+`Client/Server rendering` `color-scheme: dark`
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
