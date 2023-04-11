@@ -1,6 +1,6 @@
 # Mock json api
 
-### Run this mock server on `localhost:3001` while the Next.js Todos app runs on `localhost:3000` to test
+### Run this mock server on `localhost:3001` while the [Next.js Todos app](https://github.com/granam180/nextjs-projects/tree/main/next-js-todo-app) runs on `localhost:3000` to test
 
 This is a simple JSON api that returns mock data.
 
