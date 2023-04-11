@@ -1,5 +1,7 @@
 # Next.js 13 + Tailwind CSS Example
-`NextJS 13 TODOs API & Google Search demontrating "SSR & CSR" to serve up dynamic state for routes with different page titles, services & functionality`
+`NextJS 13 TODOs API & Google Search demontrating "SSR & CSR"`
+
+`Serving up dynamic state for routes with different page titles, services & functionality`
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
